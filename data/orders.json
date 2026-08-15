@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "ORD001",
+    "customerName": "Alice Johnson",
+    "product": "Wireless Headphones",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-07-20",
+    "returnStatus": "Not Requested",
+    "refundStatus": "Not Requested"
+  },
+  {
+    "orderId": "ORD002",
+    "customerName": "Bob Smith",
+    "product": "Running Shoes",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-06-01",
+    "returnStatus": "Not Requested",
+    "refundStatus": "Not Requested"
+  },
+  {
+    "orderId": "ORD003",
+    "customerName": "Carol White",
+    "product": "Yoga Mat",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-06-10",
+    "returnStatus": "Returned",
+    "refundStatus": "Refund Completed"
+  },
+  {
+    "orderId": "ORD004",
+    "customerName": "David Brown",
+    "product": "Smartwatch",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-07-01",
+    "returnStatus": "Returned",
+    "refundStatus": "Refund Completed"
+  },
+  {
+    "orderId": "ORD005",
+    "customerName": "Emma Davis",
+    "product": "Bluetooth Speaker",
+    "orderStatus": "Processing",
+    "deliveryDate": null,
+    "returnStatus": "Not Requested",
+    "refundStatus": "Not Requested"
+  },
+  {
+    "orderId": "ORD006",
+    "customerName": "Frank Miller",
+    "product": "Laptop Stand",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-07-25",
+    "returnStatus": "Return Requested",
+    "refundStatus": "Refund Pending"
+  },
+  {
+    "orderId": "ORD007",
+    "customerName": "Grace Lee",
+    "product": "Mechanical Keyboard",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-07-28",
+    "returnStatus": "Return Approved",
+    "refundStatus": "Not Requested"
+  },
+  {
+    "orderId": "ORD008",
+    "customerName": "Henry Wilson",
+    "product": "Desk Lamp",
+    "orderStatus": "Delivered",
+    "deliveryDate": "2026-07-30",
+    "returnStatus": "Not Requested",
+    "refundStatus": "Not Requested"
+  }
+]
