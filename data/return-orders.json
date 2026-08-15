@@ -1,0 +1,92 @@
+[
+  {
+    "orderId": "ORD1001",
+    "customerName": "Thabo M.",
+    "item": "Wireless Headphones",
+    "orderDate": "2026-07-28",
+    "deliveryDate": "2026-08-05",
+    "status": "delivered",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1002",
+    "customerName": "Lindiwe K.",
+    "item": "Running Shoes - Size 9",
+    "orderDate": "2026-06-20",
+    "deliveryDate": "2026-07-01",
+    "status": "delivered",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1003",
+    "customerName": "Sipho N.",
+    "item": "Bluetooth Speaker",
+    "orderDate": "2026-08-01",
+    "deliveryDate": "2026-08-10",
+    "status": "delivered",
+    "alreadyReturned": true,
+    "refundStatus": "processed"
+  },
+  {
+    "orderId": "ORD1004",
+    "customerName": "Amahle P.",
+    "item": "Desk Lamp",
+    "orderDate": "2026-08-12",
+    "deliveryDate": null,
+    "status": "shipped",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1005",
+    "customerName": "Kagiso R.",
+    "item": "Backpack",
+    "orderDate": "2026-07-10",
+    "deliveryDate": "2026-07-17",
+    "status": "delivered",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1006",
+    "customerName": "Naledi T.",
+    "item": "Yoga Mat",
+    "orderDate": "2026-07-09",
+    "deliveryDate": "2026-07-16",
+    "status": "delivered",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1007",
+    "customerName": "Mpho D.",
+    "item": "Kitchen Blender",
+    "orderDate": "2026-07-08",
+    "deliveryDate": "2026-07-15",
+    "status": "delivered",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1008",
+    "customerName": "Zanele B.",
+    "item": "Office Chair",
+    "orderDate": "2026-08-14",
+    "deliveryDate": null,
+    "status": "processing",
+    "alreadyReturned": false,
+    "refundStatus": "none"
+  },
+  {
+    "orderId": "ORD1009",
+    "customerName": "Bongani S.",
+    "item": "Phone Case",
+    "orderDate": "2026-08-09",
+    "deliveryDate": "2026-08-13",
+    "status": "delivered",
+    "alreadyReturned": true,
+    "refundStatus": "requested"
+  }
+]
