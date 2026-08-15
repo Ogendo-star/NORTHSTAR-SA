@@ -1,0 +1,98 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_id": "CUST-001",
+    "order_date": "2026-08-10",
+    "status": "PROCESSING",
+    "expected_delivery": "2026-08-18",
+    "last_update": "2026-08-10"
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_id": "CUST-002",
+    "order_date": "2026-08-09",
+    "status": "SHIPPED",
+    "expected_delivery": "2026-08-17",
+    "last_update": "2026-08-14"
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_id": "CUST-003",
+    "order_date": "2026-08-12",
+    "status": "OUT_FOR_DELIVERY",
+    "expected_delivery": "2026-08-15",
+    "last_update": "2026-08-15"
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_id": "CUST-004",
+    "order_date": "2026-08-02",
+    "status": "DELIVERED",
+    "expected_delivery": "2026-08-08",
+    "last_update": "2026-08-08"
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_id": "CUST-005",
+    "order_date": "2026-08-07",
+    "status": "DELAYED",
+    "expected_delivery": "2026-08-19",
+    "last_update": "2026-08-16"
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_id": "CUST-006",
+    "order_date": "2026-08-13",
+    "status": "PROCESSING",
+    "expected_delivery": "2026-08-20",
+    "last_update": "2026-08-13"
+  },
+  {
+    "order_id": "ORD-1007",
+    "customer_id": "CUST-007",
+    "order_date": "2026-08-11",
+    "status": "SHIPPED",
+    "expected_delivery": "2026-08-18",
+    "last_update": "2026-08-15"
+  },
+  {
+    "order_id": "ORD-1008",
+    "customer_id": "CUST-008",
+    "order_date": "2026-08-01",
+    "status": "DELIVERED",
+    "expected_delivery": "2026-08-06",
+    "last_update": "2026-08-06"
+  },
+  {
+    "order_id": "ORD-1009",
+    "customer_id": "CUST-009",
+    "order_date": "2026-08-06",
+    "status": "DELAYED",
+    "expected_delivery": "2026-08-14",
+    "last_update": "2026-08-16"
+  },
+  {
+    "order_id": "ORD-1010",
+    "customer_id": "CUST-010",
+    "order_date": "2026-08-14",
+    "status": "PROCESSING",
+    "expected_delivery": "2026-08-21",
+    "last_update": "2026-08-14"
+  },
+  {
+    "order_id": "ORD-1011",
+    "customer_id": "CUST-011",
+    "order_date": "2026-08-08",
+    "status": "OUT_FOR_DELIVERY",
+    "expected_delivery": "2026-08-15",
+    "last_update": "2026-08-15"
+  },
+  {
+    "order_id": "ORD-1012",
+    "customer_id": "CUST-012",
+    "order_date": "2026-08-03",
+    "status": "DELIVERED",
+    "expected_delivery": "2026-08-09",
+    "last_update": "2026-08-09"
+  }
+]
